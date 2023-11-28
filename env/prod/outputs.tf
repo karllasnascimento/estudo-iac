@@ -1,3 +1,3 @@
-output "IP" {
-  value = module.aws-prod.public_ip
-}
+# output "IP" {
+#   value = module.aws-prod.public_ip
+# }
